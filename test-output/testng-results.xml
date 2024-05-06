@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T12:36:15 IST" name="Default suite" finished-at="2024-04-24T12:36:44 IST" duration-ms="28752">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T12:36:15 IST" name="Default test" finished-at="2024-04-24T12:36:44 IST" duration-ms="28752">
+      <class name="Learning.tests.Testexection">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:15 IST" name="launchURL" finished-at="2024-04-24T12:36:30 IST" duration-ms="14543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="BaseOrder()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:30 IST" name="BaseOrder" finished-at="2024-04-24T12:36:35 IST" duration-ms="5275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:35 IST" name="tearDown" finished-at="2024-04-24T12:36:35 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:35 IST" name="launchURL" finished-at="2024-04-24T12:36:41 IST" duration-ms="5119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="OrderHistoryTest()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:41 IST" name="OrderHistoryTest" finished-at="2024-04-24T12:36:44 IST" depends-on-methods="Learning.tests.Testexection.BaseOrder" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHistoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Learning.tests.Testexection@750e2b97]" started-at="2024-04-24T12:36:44 IST" name="tearDown" finished-at="2024-04-24T12:36:44 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Learning.tests.Testexection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
